@@ -1,0 +1,16 @@
+{
+  "input_file": "messy_customers.csv",
+  "output_file": "cleaned_customers.csv",
+  "input_data_rows": 104,
+  "output_data_rows": 100,
+  "duplicate_rows_removed": 3,
+  "blank_rows_removed": 1,
+  "columns": [
+    "customer_id",
+    "name",
+    "email",
+    "city",
+    "status"
+  ],
+  "whitespace_trimmed": true
+}
